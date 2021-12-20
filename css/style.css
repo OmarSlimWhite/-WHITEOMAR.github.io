@@ -1649,7 +1649,7 @@ body {
   margin-top: 28px;
 }
 .section-title:before {
-  background: url(../img/svg/title-icon.svg), no-repeat 50% 50%;
+  background: 
   bottom: 0;
   content: "";
   display: block;
@@ -1660,7 +1660,7 @@ body {
   width: 26px;
 }
 .dark .section-title:before {
-  background: url(../img/svg/title-icon-white.svg), no-repeat 50% 50%;
+  background: 
 }
 
 .title-with-link {
